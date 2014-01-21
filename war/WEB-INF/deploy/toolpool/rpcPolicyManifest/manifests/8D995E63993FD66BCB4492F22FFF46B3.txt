@@ -1,0 +1,2 @@
+serviceClass: com.startupmm.toolpool.client.GreetingService
+path: 0806E368A90F3E81FD4E4C64F8CC869F.gwt.rpc
